@@ -46,7 +46,7 @@
 
 # A word about the internet...
 
-![aprs.fi](images/aprs-fi.png)
+![aprs.fi](images/aprsfi-large.png)
 
 #  Getting on the air
 ## What you need

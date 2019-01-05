@@ -22,7 +22,7 @@ PANDOC=/usr/local/bin/pandoc
 
 PANDOC_OPTIONS=--standalone
 
-PANDOC_HTML_OPTIONS=-t s5
+PANDOC_HTML_OPTIONS=-t slidy
 PANDOC_PDF_OPTIONS=-t beamer
 PANDOC_PPTX_OPTIONS=-t pptx
 
