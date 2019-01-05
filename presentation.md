@@ -155,20 +155,30 @@ Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port 
 
 # Setting up for APRSIS access
 
-* You need a callsign and a passcode to transmit on APRS-IS.
-* The passcode is generated from your callsign. It's semi-secret.
-* You can get the passcode from any APRS software author, or some hams.
+*  You need a callsign and a passcode to transmit on APRS-IS.
+*  The passcode is generated from your callsign. It's semi-secret.
+*  You can get the passcode from any APRS software author, or some hams.
 
 # Setting up internet gating
-* You'll need your callsign and passcode (you're accessing APRSIS after all!)
-* Most APRS applications support Internet Gating; check the settings.
-* Do _not_ blindly transmit the APRSIS feed to the RF network. You'll swamp the channel!
+*  You'll need your callsign and passcode (you're accessing APRSIS after all!)
+*  Most APRS applications support Internet Gating; check the settings.
+*  Do _not_ blindly transmit the APRSIS feed to the RF network. You'll swamp the channel!
 
-# Starting with your cell phone
+# Messaging
+*  Address a message to a callsign and send it.
+*  Messages are _short_ - 60 characters or so.
+*  Messages are retried a handful of times with exponential backoff.
 
-*  Download APRSdroid or PocketPacket
-*  Enter configuration
-(do demo)
+# Special message recipients
+*  SMSGTE 8885551212 Here's a text message
+*  EMAIL2 kf6gpe@arrl.net Hi via APRS & email!
+*  WXBOT
+
+# Now it's your turn!
+
+*  Download APRSdroid or PocketPacket!
+*  Start at [tinyurl.com/get-aprs](https://tinyurl.com/get-aprs)
+*  Use -1 as the passcode (you won't be able to transmit) or see me for a passcode.
 
 #  APRS software links
 
