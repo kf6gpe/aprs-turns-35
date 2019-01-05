@@ -9,19 +9,18 @@
 # Run "make clean" to delete converted files
 
 # Convert all files in this directory that have a .md suffix
-SOURCE_DOCS := $(wildcard *.md)
+SOURCE_DOCS := presentation.md
 
 EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=.html) \
- $(SOURCE_DOCS:.md=.pdf) \
- $(SOURCE_DOCS:.md=.pptx)
-
+ $(SOURCE_DOCS:.md=.pptx) \
+ $(SOURCE_DOCS:.md=.pdf) 
 
 RM=/bin/rm
 
 PANDOC=/usr/local/bin/pandoc
 
-PANDOC_OPTIONS=--smart --standalone
+PANDOC_OPTIONS=--standalone
 
 PANDOC_HTML_OPTIONS=-t s5
 PANDOC_PDF_OPTIONS=-t beamer
