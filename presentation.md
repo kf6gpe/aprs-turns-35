@@ -66,6 +66,7 @@
 *  YAAC - Java, all platforms, a bit fiddly 
 *  APRSdroid - Android
 *  PocketPacket - iOS & Mac OS
+*  aprs.fi (iOS, not the web site)
 
 # Older software
 ### You'll see these, don't bother trying with them!
@@ -92,7 +93,7 @@
 *  Works with some KISS TNCs (Moblinkd, Kenwood TH-D74A/E)
 *  Great choice for portable with Android smartphones
 *  Can work with Windows, but expect weird problems.
-*  Not possible under iOS at present
+*  On iOS, only the Mobilinkd v3 works, and only with the aprs.fi app
 
 # USB
 *  Serial connections for the new millennium
@@ -157,19 +158,20 @@ Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port 
 
 # Now it's your turn (time permitting)
 ### Pair up with a neighbor and...
-*  Download APRSdroid or PocketPacket on your mobile phone!
+*  Download APRSdroid, PocketPacket, or aprs.fi on your mobile phone!
 *  Start at [tinyurl.com/get-aprs](https://tinyurl.com/get-aprs)
 *  Use -1 as the passcode (you won't be able to transmit) or see me for a passcode.
 
 #  APRS software links
-* [APRSdroid](https://aprsdroid.org/), [APRSdroid on the Play Store](https://play.google.com/store/apps/details?id=org.aprsdroid.app)
-* [PocketPacket iOS](http://koomasi.com/pocketpacket/), [Pocket Packet on the App Store](https://itunes.apple.com/us/app/pocketpacket/id336500866?mt=8)
-* [PocketPacket Mac OS](http://koomasi.com/pocketpacket-mac-os/), [Pocket Packet on the Mac App Store](https://itunes.apple.com/us/app/pocketpacket/id434074502?mt=12)
-* [APRSIS32](http://aprsisce.wikidot.com/)
-* [PinPoint APRS](http://www.pinpointaprs.com/)
-* [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html)
-* [Xastir](http://www.xastir.org)
-* [APRS.fi](http://www.aprs.fi/)
+*  [APRSdroid](https://aprsdroid.org/), [APRSdroid on the Play Store](https://play.google.com/store/apps/details?id=org.aprsdroid.app)
+*  [APRS.fi on iOS](http://blog.aprs.fi/2015/12/aprsfi-ios-app-for-iphone-and-ipad.html)
+*  [APRS.fi on the Web](http://www.aprs.fi/)
+*  [APRSIS32](http://aprsisce.wikidot.com/)
+*  [PocketPacket iOS](http://koomasi.com/pocketpacket/), [Pocket Packet on the App Store](https://itunes.apple.com/us/app/pocketpacket/id336500866?mt=8)
+*  [PocketPacket Mac OS](http://koomasi.com/pocketpacket-mac-os/), [Pocket Packet on the Mac App Store](https://itunes.apple.com/us/app/pocketpacket/id434074502?mt=12)
+*  [PinPoint APRS](http://www.pinpointaprs.com/)
+*  [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html)
+*  [Xastir](http://www.xastir.org)
 
 # Sound card modem links
 * [AGWPE Resources](https://www.soundcardpacket.org/)
