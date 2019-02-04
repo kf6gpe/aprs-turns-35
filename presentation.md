@@ -90,7 +90,7 @@
 # Bluetooth
 *  Low-power, wireless protocol for audio and serial
 *  Bluetooth Serial replaces RS-232 or USB serial
-*  Works with some KISS TNCs (Moblinkd, Kenwood TH-D74A/E)
+*  Works with some KISS TNCs (Mobilinkd, Kenwood TH-D74A/E)
 *  Great choice for portable with Android smartphones
 *  Can work with Windows, but expect weird problems.
 *  On iOS, only the Mobilinkd v3 works, and only with the aprs.fi app
