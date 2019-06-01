@@ -79,6 +79,7 @@
 *  Kenwood TH-D700, TH-D710
 *  Yaesu VX-8DR, FT1DR, FT2DR
 *  PicoAPRS mini-APRS Transceiver
+*  MicroTrak tracker from Byonics
 *  Any other 2m radio connected to a Mobilinkd Bluetooth TNC
 
 # Connecting to the network
@@ -123,16 +124,7 @@
 *  Icon (funky codes abound!)
 *  Digipeater path (stick with WIDE1-1)
 
-# Station setup - APRSIS32
-![APRSIS32 Station](images/station.png)
-
-# Beaconing setup - APRSIS32
-![APRSIS32 Beacon](images/beacon.png)
-
-# Port setup - APRSIS32 
-![APRSIS32 Port](images/port-is.png)
-
-# It looks complicated...
+# It sounds complicated...
 ## But it isn't.
 Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port before you begin.
 
@@ -156,13 +148,8 @@ Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port 
 *  EMAIL2 kf6gpe@arrl.net Hi via APRS & email!
 *  WXBOT
 
-# Now it's your turn (time permitting)
-### Pair up with a neighbor and...
-*  Download APRSdroid, PocketPacket, or aprs.fi on your mobile phone!
-*  Start at [tinyurl.com/get-aprs](https://tinyurl.com/get-aprs)
-*  Use -1 as the passcode (you won't be able to transmit) or see me for a passcode.
-
 #  APRS software links
+*  [tinyurl.com/get-aprs](https://tinyurl.com/get-aprs)
 *  [APRSdroid](https://aprsdroid.org/), [APRSdroid on the Play Store](https://play.google.com/store/apps/details?id=org.aprsdroid.app)
 *  [APRS.fi on iOS](http://blog.aprs.fi/2015/12/aprsfi-ios-app-for-iphone-and-ipad.html)
 *  [APRS.fi on the Web](http://www.aprs.fi/)
