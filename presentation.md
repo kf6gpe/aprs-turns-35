@@ -148,6 +148,11 @@ Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port 
 *  EMAIL2 kf6gpe@arrl.net Hi via APRS & email!
 *  WXBOT
 
+# Call to action
+* Track [KD0MEQ](https://aprs.fi/#!call=a%2FKD0MEQ-11&timerange=10800&tail=10800)'s balloon this weekend (15-Jun-2019)! 
+* See [here](https://old.reddit.com/r/amateurradio/comments/bzzsas/balloon_launch_saturday/?st=jwuzwhtp&sh=101a18b6) for launch details.
+
+
 #  APRS software links
 *  [tinyurl.com/get-aprs](https://tinyurl.com/get-aprs)
 *  [APRSdroid](https://aprsdroid.org/), [APRSdroid on the Play Store](https://play.google.com/store/apps/details?id=org.aprsdroid.app)
