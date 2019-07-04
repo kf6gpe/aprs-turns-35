@@ -77,7 +77,7 @@
 # Radios
 *  Kenwood TH-D7A, TH-D72A (GPS), TH-D74A (GPS, D-STAR, & Bluetooth)
 *  Kenwood TH-D700, TH-D710
-*  Yaesu VX-8DR, FT1DR, FT2DR
+*  Yaesu VX-8DR, FT1DR, FT2DR, FT3DR
 *  PicoAPRS mini-APRS Transceiver
 *  MicroTrak tracker from Byonics
 *  Any other 2m radio connected to a Mobilinkd Bluetooth TNC
