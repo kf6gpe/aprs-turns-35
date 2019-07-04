@@ -148,6 +148,10 @@ Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port 
 *  EMAIL2 kf6gpe@arrl.net Hi via APRS & email!
 *  WXBOT
 
+# Call to action
+* Install APRS on your cell phone!
+* Reach out to me for a passcode.
+
 #  APRS software links
 *  [tinyurl.com/get-aprs](https://tinyurl.com/get-aprs)
 *  [APRSdroid](https://aprsdroid.org/), [APRSdroid on the Play Store](https://play.google.com/store/apps/details?id=org.aprsdroid.app)
