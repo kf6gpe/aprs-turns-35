@@ -129,7 +129,7 @@
 Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port before you begin.
 
 # Setting up for APRSIS access
-*  You need a callsign and a passcode to transmit on APRS-IS.
+*  You need a callsign and a passcode to transmit on APRSIS.
 *  The passcode is generated from your callsign. It's semi-secret.
 *  You can get the passcode from any APRS software author, or some hams.
 
@@ -173,4 +173,5 @@ Most apps have a setup wizard. Know your callsign, SSID, passcode, and TNC port 
 * [APRS Protocol Specification](http://www.aprs.org/doc/APRS101.PDF)
 * [APRS Internet Service](http://www.aprs-is.net/)
 * [Python APRS Module](https://github.com/ampledata/aprs) (one of many!)
-* [pyaprs-stationservice](https://github.com/kf6gpe/pyaprs-stationservice) Python Web service to monitor APRS-IS feed and provide REST interface to report station positions. 
+* [pyaprs-stationservice](https://github.com/kf6gpe/pyaprs-stationservice) Python Web service to monitor APRSIS feed and provide REST interface to report station positions. 
+* [tasker-aprs-updater](https://github.com/kf6gpe/tasker-aprs-updater) Android Tasker routine to update APRSIS periodically.
